@@ -17,6 +17,8 @@ O objetivo deste projeto é praticar lógica de programação e conceitos fundam
 *  Remover quantidade do estoque
 *  Calcular o valor total do estoque
 *  Alertar produtos com estoque baixo
+*  Sistema de vendas 
+*  Dashboard ao controle de estoque
 
 ##  Conceitos Utilizados
 
